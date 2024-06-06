@@ -62,4 +62,10 @@ namespace BankDINamespace
 
 
 
+    //ANgular -- Http (third party apis)  -- https://jsonplaceholder.typicode.com/posts
+
+    // our own  apis -- https://madan.com/posts (asp.net core) 10-12days
+
+
+
 }
